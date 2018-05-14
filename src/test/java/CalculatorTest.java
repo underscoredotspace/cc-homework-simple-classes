@@ -1,16 +1,21 @@
 import org.junit.Before;
 import org.junit.Test;
 
-public class CalculatorTest {
-  private Calculator calculator;
+import static org.junit.Assert.assertEquals;
 
-  @Before
-  private void before() {
-    calculator = new Calculator();
+public class CalculatorTest {
+  @Test
+  public void add() {
+    assertEquals(5, Calculator.add(2,3));
   }
 
   @Test
-  private void addTwoNumbers() {
+  public void multiply() {
+    assertEquals(6, Calculator.multiply(2,3));
+  }
 
+  @Test
+  public void divide() {
+    assertEquals(2, Calculator.divide(6,3));
   }
 }
