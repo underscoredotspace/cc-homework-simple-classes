@@ -4,7 +4,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 public class WaterBottleTest {
-  private WaterBottle waterBottle;
+  public WaterBottle waterBottle;
 
   @Before
   public void before() {

@@ -10,6 +10,11 @@ public class CalculatorTest {
   }
 
   @Test
+  public void subtract() {
+    assertEquals(1, Calculator.subtract(3,2));
+  }
+
+  @Test
   public void multiply() {
     assertEquals(6, Calculator.multiply(2,3));
   }

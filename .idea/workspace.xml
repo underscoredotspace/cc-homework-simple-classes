@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="79c59202-3501-4ffa-af90-45e212b67b93" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/WaterBottle.java" afterPath="$PROJECT_DIR$/src/main/java/WaterBottle.java" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Calculator.class" afterPath="$PROJECT_DIR$/out/production/classes/Calculator.class" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/WaterBottleTest.class" afterPath="$PROJECT_DIR$/out/test/classes/WaterBottleTest.class" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" />
       <change beforePath="$PROJECT_DIR$/src/test/java/WaterBottleTest.java" afterPath="$PROJECT_DIR$/src/test/java/WaterBottleTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,38 +26,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="WaterBottleTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/WaterBottleTest.java">
+      <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+            <state relative-caret-position="336">
+              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#195#196#0" expanded="true" />
-                <element signature="e#236#237#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#64#65#0" expanded="true" />
+                <element signature="e#86#87#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WaterBottle.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/WaterBottle.java">
+      <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="198">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
-                <element signature="e#66#67#0" expanded="true" />
-                <element signature="e#87#88#0" expanded="true" />
-                <element signature="e#115#116#0" expanded="true" />
-                <element signature="e#143#144#0" expanded="true" />
-                <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#195#196#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-                <element signature="e#296#297#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -476,10 +481,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/main/java/WaterBottle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/WaterBottleTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Calculator.java" />
         <option value="$PROJECT_DIR$/src/test/java/CalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/WaterBottleTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/WaterBottle.java" />
       </list>
     </option>
   </component>
@@ -565,7 +570,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.WaterBottleTest">
+  <component name="RunManager" selected="JUnit.CalculatorTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -733,9 +738,9 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.WaterBottleTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.WaterBottleTest.drink" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.WaterBottleTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.WaterBottleTest.drink" />
       </list>
     </recent_temporary>
   </component>
@@ -756,22 +761,13 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculatorTest - 2018.05.14 at 18h 18m 35s.xml">
-      <configuration name="CalculatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculatorTest - 2018.05.15 at 00h 19m 01s.xml">
-      <configuration name="CalculatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculatorTest - 2018.05.15 at 00h 19m 28s.xml">
-      <configuration name="CalculatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculatorTest - 2018.05.15 at 00h 32m 33s.xml">
-      <configuration name="CalculatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculatorTest - 2018.05.15 at 00h 33m 31s.xml">
-      <configuration name="CalculatorTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CalculatorTest - 2018.05.15 at 00h 33m 41s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest - 2018.05.15 at 09h 52m 36s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest - 2018.05.15 at 09h 53m 27s.xml">
       <configuration name="CalculatorTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="WaterBottleTest - 2018.05.15 at 00h 33m 52s.xml">
@@ -781,6 +777,15 @@
       <configuration name="WaterBottleTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="WaterBottleTest - 2018.05.15 at 00h 36m 17s.xml">
+      <configuration name="WaterBottleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WaterBottleTest - 2018.05.15 at 09h 34m 45s.xml">
+      <configuration name="WaterBottleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WaterBottleTest - 2018.05.15 at 09h 37m 12s.xml">
+      <configuration name="WaterBottleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WaterBottleTest - 2018.05.15 at 09h 52m 19s.xml">
       <configuration name="WaterBottleTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="WaterBottleTest_drink - 2018.05.15 at 00h 33m 46s.xml">
@@ -845,14 +850,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Printer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PrinterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -869,55 +866,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Printer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding>
-            <element signature="e#57#58#0" expanded="true" />
-            <element signature="e#79#80#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/WaterBottleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/WaterBottle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="360">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
           <folding>
             <element signature="e#66#67#0" expanded="true" />
             <element signature="e#87#88#0" expanded="true" />
@@ -929,6 +889,55 @@
             <element signature="e#245#246#0" expanded="true" />
             <element signature="e#269#270#0" expanded="true" />
             <element signature="e#296#297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/WaterBottleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
           </folding>
         </state>
       </provider>
